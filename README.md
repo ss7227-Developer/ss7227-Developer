@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Samyukkta 👋</h1>
+<h1 align="center">Hi, I'm Sammu 👋</h1>
 <h3 align="center">AI / ML Engineer &nbsp;·&nbsp; MS Computer Science @ Columbia University</h3>
 
 <p align="center">
