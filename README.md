@@ -2,8 +2,8 @@
 <h3 align="center">AI / ML Engineer &nbsp;·&nbsp; MS Computer Science @ Columbia University</h3>
 
 <p align="center">
-  <a href="https://sammu.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-sammu.dev-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://personal-website-beryl-six-70.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-samyukkta.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/samyukkta-suryanarayanan/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -21,7 +21,7 @@
 - 🤖 &nbsp;I build **agentic AI systems** — multi-agent pipelines, RAG, and real-time ML inference
 - 🔐 &nbsp;Security-aware by design: I think about what happens when models are wrong or exploited
 - 🚀 &nbsp;Currently seeking **full-time AI/ML engineering roles**
-- 🌐 &nbsp;Portfolio: [sammu.dev](https://sammu.dev)
+- 🌐 &nbsp;Portfolio: [personal-website-beryl-six-70.vercel.app](https://personal-website-beryl-six-70.vercel.app)
 
 ---
 
